@@ -1,4 +1,2 @@
-oe-alliance-plugins
+e2 plugins for 4d
 ===================
-
-required oe-alliance plugins
